@@ -8,3 +8,5 @@ Repository for the paper :
 <p align = "center">    
 <img  src="overall_architecture.png" width="100%" />
 </p>
+
+The code is built upon the implementation from <https://github.com/Haoqing-Wang/CDFSL-ATA>
