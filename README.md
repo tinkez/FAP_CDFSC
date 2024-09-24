@@ -10,3 +10,4 @@ Repository for the paper :
 </p>
 
 The code is built upon the implementation from <https://github.com/Haoqing-Wang/CDFSL-ATA>, <https://github.com/IBM/cdfsl-benchmark>, <https://github.com/hytseng0509/CrossDomainFewShot>. We are very grateful for their valuable works.
+For `pytorch_wavelets`, please follow [here](https://github.com/fbcotter/pytorch_wavelets.git).
